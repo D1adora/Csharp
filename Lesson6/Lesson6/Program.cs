@@ -7,6 +7,8 @@ using static Lesson6.Task2;
 
 
 namespace Lesson6
+
+    //Kubandykov Tilek
 {
     // Описываем делегат.
 

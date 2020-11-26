@@ -8,6 +8,7 @@ using System.Threading.Tasks;
 namespace Lesson6
 {
     class Task2
+
     {
         public delegate double function(double x);
         public static double F1(double x)

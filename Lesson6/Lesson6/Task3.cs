@@ -17,6 +17,7 @@ namespace Lesson6
         public string city;
         public int age;
 
+
         //Создаем конструктор
         public Student(string firstName, string lastName, string univercity, string faculty, string department, int age, int course, int group, string city)
         {
