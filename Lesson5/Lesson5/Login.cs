@@ -11,6 +11,7 @@ namespace Lesson5
         */
     public class Login
     {
+
         /// <summary>Метод отображения слова "попытка" в правильной форме</summary>
         /// <param name="x">Количество попыток</param>
         /// <returns></returns>

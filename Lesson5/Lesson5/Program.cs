@@ -33,6 +33,7 @@ namespace Lesson5   //Кубандыков Тилек
             string[] arr = { "на", "Юрнеро", "он", "остров", "он" };
             Message.FrequencyAnalysis(arr, Message.text);
 
+
             Console.ReadKey();
         }
     }
